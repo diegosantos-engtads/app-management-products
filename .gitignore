@@ -14,6 +14,16 @@
 /coverage
 
 
+# Prettier config
+.prettierrc
+.prettierrc.json
+.prettierrc.js
+.prettier.config.js
+.prettierignore
+
+# EditorConfig
+.editorconfig
+
 # Informações de build do TypeScript
 *.tsbuildinfo
 next-env.d.ts
