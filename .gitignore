@@ -9,9 +9,32 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-
+.vscode
 # testing
 /coverage
+
+
+# Informações de build do TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Cache do Turbopack
+.turbo/
+
+# Cache local de imagens com next/image (opcional)
+public/cache/
+
+# certificações ou chaves)
+*.pem
+
+# Pastas de build do Next.js
+/.next/
+out/
+/build
+
+# (variáveis sensíveis)
+.env*
+
 
 # next.js
 /.next/
