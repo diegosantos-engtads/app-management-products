@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Blusinha",
+      "category": "Vestuário",
+      "price": 2999.9,
+      "description": "Notebook potente para tarefas do dia a dia.",
+      "imageUrl": "/images/blusinha-feminina-varias-cores.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bermuda",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/bermuda-esportiva-preta.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Calça Esportiva",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/calca-feminina-esportiva-preta.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Camiseta Branca",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/camiseta-esportiva-preta.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Blusinha",
+      "category": "Vestuário",
+      "price": 2999.9,
+      "description": "Notebook potente para tarefas do dia a dia.",
+      "imageUrl": "/images/blusinha-feminina-varias-cores.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Bermuda",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/bermuda-esportiva-preta.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Calça Esportiva",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/calca-feminina-esportiva-preta.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Camiseta Branca",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/camiseta-esportiva-preta.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Blusinha",
+      "category": "Vestuário",
+      "price": 2999.9,
+      "description": "Notebook potente para tarefas do dia a dia.",
+      "imageUrl": "/images/blusinha-feminina-varias-cores.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Bermuda",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/bermuda-esportiva-preta.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Calça Esportiva",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/calca-feminina-esportiva-preta.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Camiseta Branca",
+      "category": "Vestuário",
+      "price": 49.9,
+      "description": "Camiseta básica 100% algodão.",
+      "imageUrl": "/images/camiseta-esportiva-preta.jpg"
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import { Inter } from 'next/font/google';
-import { Container } from './components/Container';
-import { Main } from './components/Main';
-import { Header } from './components/Header';
-import { Footer } from './components/Footer';
+import { Header } from '@/components/Header';
+import { Container } from '@/components/Container';
+import { Footer } from '@/components/Footer';
+import { Main } from '@/components/Main';
+
 
 export const metadata: Metadata = {
   title: {
