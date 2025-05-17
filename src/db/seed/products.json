@@ -2,59 +2,59 @@
   "products": [
     {
       "id": "1",
-      "name": "Camiseta Gola Polo Básica Em Algodão Luxo Social Uniforme",
-      "category": "Vestuário",
-      "price": 2999.9,
-      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
-      "imageUrl": "/images/blusinha-feminina-varias-cores.jpg"
+      "name": "Agasalho Nike Club Masculino",
+      "category": "Casual",
+      "price": 490.9,
+      "description": "O tecido de malha de poliéster é macio e confortável. Conjunto versátil de 2 peças facilita combinar essas peças com as suas camisetas e tênis favoritos.Feita para ser espaçosa no corpo e nas pernas para um ajuste esportivo que você pode usar em camadas na academia ou no seu almoço favorito. O acabamento elástico mantém as calças e a jaqueta no lugar enquanto você se move.",
+      "imageUrl": "/images/01-agasalho-Nike club-masculino.jpg"
     },
     {
       "id": "2",
-      "name": "Regata Feminina Canelada Ribana Blusa Algodão Premium Básica",
-      "category": "Vestuário",
+      "name": "Camiseta Nike Sportswear Icon Futura Masculina",
+      "category": "Casual",
       "price": 49.9,
-      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
-      "imageUrl": "/images/bermuda-esportiva-preta.jpg"
+      "description": "A camiseta Nike Sportswear coloca você em um macio tecido jersey de algodão e um logotipo clássico no peito.",
+      "imageUrl": "/images/02-camisa-nike-sportswer.jpg"
     },
     {
       "id": "3",
       "name": "Regata Feminina Canelada Ribana Blusa Algodão Premium Básica",
-      "category": "Vestuário",
-      "price": 49.9,
-      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
-      "imageUrl": "/images/calca-feminina-esportiva-preta.jpg"
+      "category": "Suporte Leve",
+      "price": 284.98,
+      "description": "Incrivelmente macio e incrivelmente leve, o Alate Minimalist oferece conforto sem esforço. O suporte leve proporciona uma fixação suave, enquanto o acolchoamento elástico e costurado oferece modelagem e cobertura sutis. Um design discreto e alças ajustáveis e conversíveis funcionam para você e sua roupa o dia todo, todos os dias.",
+      "imageUrl": "/images/03-top-nike-coverage-feminino.jpg"
     },
     {
       "id": "4",
-      "name": "Camiseta Gola Polo Básica Em Algodão Luxo Social Uniforme",
-      "category": "Vestuário",
-      "price": 49.9,
-      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
-      "imageUrl": "/images/camiseta-esportiva-preta.jpg"
+      "name": "Plus Size - Top Nike Dri-FIT Indy Feminino",
+      "category": "Suporte Alto",
+      "price": 237.85,
+      "description": "Cada dia e cada treino têm necessidades diferentes, e é por isso que atualizamos o Top Indy para você ter opções. Procurando uma pegada suave com bastante liberdade? Experiente o Suporte Leve do Indy. Precisa de suporte confortável e em qualquer lugar? O Indy Medium Support pode ser o top perfeito para você.",
+      "imageUrl": "/images/04-plus-size-top-nike-dri-fit.jpg"
     },
     {
       "id": "5",
-      "name": "Blusinha",
-      "category": "Vestuário",
-      "price": 2999.9,
-      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
-      "imageUrl": "/images/blusinha-feminina-varias-cores.jpg"
+      "name": "Tênis Dunk Low Panda Infantil ",
+      "category": "Pré-Adolescentes / Casual",
+      "price": 665.93,
+      "description": "Originalmente criado para as quadras, o Dunk mais tarde foi para as ruas - e como se costuma dizer, o resto é história. Mais de 35 anos após sua estreia, a silhueta ainda oferece um estilo ousado e desafiador e continua sendo um visual cobiçado em todas as idades.",
+      "imageUrl": "/images/05-tenis-dunk-low-panda-infantil.jpg"
     },
     {
       "id": "6",
-      "name": "Bermuda",
-      "category": "Vestuário",
-      "price": 49.9,
+      "name": "Camiseta Nike Sportswear JDI Masculina",
+      "category": "Casual",
+      "price": 58.49,
       "description": "Camiseta básica 100% algodão.",
-      "imageUrl": "/images/bermuda-esportiva-preta.jpg"
+      "imageUrl": "/images/07-camisa-nike-sporswer-jdi-masculina.jpg"
     },
     {
       "id": "7",
-      "name": "Calça Esportiva",
+      "name": "Tênis Nike Revolution 7 Infantil",
       "category": "Vestuário",
-      "price": 49.9,
+      "price": 208.99,
       "description": "Camiseta básica 100% algodão.",
-      "imageUrl": "/images/calca-feminina-esportiva-preta.jpg"
+      "imageUrl": "/images/06-tenis-nike-revolution-7-infantil.jpg"
     },
     {
       "id": "8",
