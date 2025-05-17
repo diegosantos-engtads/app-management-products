@@ -1,5 +1,9 @@
+import { ProductList } from '@/components/ProductList';
+
 export default function Home() {
-
-
-  return <div>dsadsa</div>;
+  return (
+    <>
+      <ProductList />
+    </>
+  );
 }

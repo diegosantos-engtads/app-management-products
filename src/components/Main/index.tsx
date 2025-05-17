@@ -13,6 +13,7 @@ export function Main({ children }: MainProps) {
         'grid-rows-[auto_1fr_auto]',
         'min-h-screen',
         'w-full',
+
       )}
     >
       {children}

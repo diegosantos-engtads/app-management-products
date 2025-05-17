@@ -2,34 +2,34 @@
   "products": [
     {
       "id": "1",
-      "name": "Blusinha",
+      "name": "Camiseta Gola Polo Básica Em Algodão Luxo Social Uniforme",
       "category": "Vestuário",
       "price": 2999.9,
-      "description": "Notebook potente para tarefas do dia a dia.",
+      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
       "imageUrl": "/images/blusinha-feminina-varias-cores.jpg"
     },
     {
       "id": "2",
-      "name": "Bermuda",
+      "name": "Regata Feminina Canelada Ribana Blusa Algodão Premium Básica",
       "category": "Vestuário",
       "price": 49.9,
-      "description": "Camiseta básica 100% algodão.",
+      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
       "imageUrl": "/images/bermuda-esportiva-preta.jpg"
     },
     {
       "id": "3",
-      "name": "Calça Esportiva",
+      "name": "Regata Feminina Canelada Ribana Blusa Algodão Premium Básica",
       "category": "Vestuário",
       "price": 49.9,
-      "description": "Camiseta básica 100% algodão.",
+      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
       "imageUrl": "/images/calca-feminina-esportiva-preta.jpg"
     },
     {
       "id": "4",
-      "name": "Camiseta Branca",
+      "name": "Camiseta Gola Polo Básica Em Algodão Luxo Social Uniforme",
       "category": "Vestuário",
       "price": 49.9,
-      "description": "Camiseta básica 100% algodão.",
+      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
       "imageUrl": "/images/camiseta-esportiva-preta.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Blusinha",
       "category": "Vestuário",
       "price": 2999.9,
-      "description": "Notebook potente para tarefas do dia a dia.",
+      "description": "Material de Alta Qualidade: Feita com algodão premium e elastano, garantindo maciez, durabilidade e um ajuste que se adapta ao seu corpo.",
       "imageUrl": "/images/blusinha-feminina-varias-cores.jpg"
     },
     {
