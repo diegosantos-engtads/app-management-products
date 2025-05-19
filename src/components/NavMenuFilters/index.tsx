@@ -12,6 +12,10 @@ export function NavMenuFilters() {
         Ordenar Por <Settings2 size={'13px'} stroke='black' />
       </p>
 
+      <p className='sm:flex items-center hidden gap-1 text-lg text-[#000]'>
+        Ordenar Por <Settings2 size={'13px'} stroke='black' />
+      </p>
+
       <Settings2 stroke='black' className='text-black sm:hidden ' />
     </Container>
   );
